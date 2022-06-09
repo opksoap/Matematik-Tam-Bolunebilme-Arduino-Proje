@@ -1,1 +1,1 @@
-# Matematik-Tam-B-l-nebilme-Arduino-Proje
+# Matematik-Tam-Bolunebilme-Arduino-Proje
